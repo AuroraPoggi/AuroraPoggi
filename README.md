@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Aurora Poggi
 
-PhD student in Applied & Computational Mathematics at **KTH**, Stockholm (WASP funded), supervised by [Ozan Öktem](https://www.kth.se/profile/ozan).
+PhD student in Applied & Computational Mathematics at **KTH**, Stockholm (WASP-funded), supervised by [Ozan Öktem](https://www.kth.se/profile/ozan).
 
 I develop models for noisy, chaotic dynamical systems, using Graph Neural Networks, Neural ODEs, DeepONets, Physics-Informed Neural Networks and dynamical systems theory. 
 
@@ -11,7 +11,7 @@ I develop models for noisy, chaotic dynamical systems, using Graph Neural Networ
 
 ###  Currently
 - Working on **Repulsive Deep Ensembles for calcium signalling**: forecasting calcium dynamics in cell cultures from imaging data, with uncertainty estimates.
-- Extending **equation-free modelling of chaotic processes** towards a biological interpretation: what the learned Markov chain models reveal about calcium signalling.
+- Extending **equation-free modelling of chaotic processes** towards a biological interpretation: what the learned Markov chain models reveal about calcium signaling.
   
 ### Tools
 Python · PyTorch · Slurm/HPC (Dardel, Arrhenius) · LaTeX · MATLAB
