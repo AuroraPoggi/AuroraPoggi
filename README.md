@@ -1,4 +1,4 @@
-## Hi 👋 I'm Aurora Poggi
+## Welcome in Aurora's GitHub
 
 PhD student in Applied & Computational Mathematics at **KTH**, Stockholm (WASP-funded), supervised by [Ozan Öktem](https://www.kth.se/profile/ozan).
 
